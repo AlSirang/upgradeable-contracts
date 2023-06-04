@@ -9,3 +9,8 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+# Addresses
+
+Proxy contract address: 0x7Bb9b357df8A42c98D8E0b31e6Aec84d6AD8B830
+v1Implementation contract address: 0x6c7287d6Fe48c09737C1424dd65aCFF62Ec01de5
