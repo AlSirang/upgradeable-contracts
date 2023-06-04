@@ -1,6 +1,12 @@
-# Hardhat Project
+# Upgradeable Contract
 
-Try running some of the following tasks:
+This project is part of [Alchemy University](https://university.alchemy.com)'s Ethereum Developer Bootcamp.
+
+## Goal
+
+How to Deploy an Upgradeable Vending Machine Smart Contract.
+
+## Available Scripts
 
 ```shell
 npx hardhat help
@@ -10,8 +16,8 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
 
-# Addresses
+## Addresses
 
-Proxy contract address: 0x7Bb9b357df8A42c98D8E0b31e6Aec84d6AD8B830
-V1Implementation contract address: 0x6c7287d6Fe48c09737C1424dd65aCFF62Ec01de5
-V2Implementation contract address: 0xd0694C1dF72424571c3D9CA46857365d6a78EFeE
+- Proxy contract address: 0x7Bb9b357df8A42c98D8E0b31e6Aec84d6AD8B830
+- V1Implementation contract address: 0x6c7287d6Fe48c09737C1424dd65aCFF62Ec01de5
+- V2Implementation contract address: 0xd0694C1dF72424571c3D9CA46857365d6a78EFeE
